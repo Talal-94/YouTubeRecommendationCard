@@ -1,0 +1,16 @@
+.main {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: start;
+    justify-content: center;
+    gap: 2rem;
+}
+.right-side img {
+    width: 25rem;
+    height: 12rem;
+    border-radius: 5px;
+}
+.left-side h2 {
+    margin: 0;
+}
